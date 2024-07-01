@@ -88,4 +88,3 @@ public class YourComponent : NetcodeHubTaskManager
    
 # ☕️ If you've found value in Netcode-Hub's work, consider supporting the channel with a coffee!
 1. Buy Me a Coffee: [Support Netcode-Hub](https://www.buymeacoffee.com/NetcodeHub) ☕️
-2. Patreon: [Support on Patreon](https://patreon.com/user?u=113091185&utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink) 🌟
