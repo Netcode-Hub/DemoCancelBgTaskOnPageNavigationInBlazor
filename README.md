@@ -1,4 +1,5 @@
 # Effortlessly Cancel Blazor Background Tasks on Navigation with NetcodeHub's Quick Solution!
+![background task](https://github.com/Netcode-Hub/DemoCancelBgTaskOnPageNavigationInBlazor/assets/110794348/3f69833c-e0cd-44be-95cc-d568b04afd40)
 
 Today, we're diving into a crucial aspect of Blazor development: how to effectively cancel background tasks when a user navigates to another page. This is a common scenario that many developers encounter, and handling it correctly is essential to ensure a smooth user experience and to avoid unnecessary resource consumption.
 
